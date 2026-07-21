@@ -9,8 +9,8 @@ const SITE_CONFIG = {
   tagline:    "10년 동안 내집처럼, 10년 후엔 내집으로. 동탄2 신주거문화타운의 마지막 파라곤.",
 
   /* 하단 '전화걸기' 버튼 및 상담 대표번호 */
-  callPhone:  "1800-7081",
-  sitePhone:  "1800-7081",
+  callPhone:  "010-4677-8917",
+  sitePhone:  "010-4677-8917",
 
   address:      "경기도 화성시 동탄2지구 A58BL (동탄2 신주거문화타운 내)",
   addressRegion:   "경기도",
